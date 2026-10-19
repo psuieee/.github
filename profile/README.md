@@ -1,4 +1,4 @@
-![Penn State IEEE banner](profile/banner.jpg)
+![Penn State IEEE banner](banner.jpg)
 
 The official Penn State student branch of the **Institute of Electrical and Electronics Engineers**, and a leading EECS organization at Penn State. We grow technical and professional skills, connect members with employers, and build community across EE, CMPEN, CMPSC, and anyone interested in EECS.
 
